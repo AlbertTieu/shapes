@@ -48,4 +48,8 @@ public class Circle implements Shape
   {
     return this.color;
   }
+  
+  public double getCircumference() {
+	return this.getPerimeter();
+    }
 }
