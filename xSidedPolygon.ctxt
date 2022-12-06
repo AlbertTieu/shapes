@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=xSidedPolygon
+comment1.params=color\ sideLength\ sides
+comment1.target=xSidedPolygon(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment4.params=
+comment4.target=double\ getPerimeter()
+numComments=5
